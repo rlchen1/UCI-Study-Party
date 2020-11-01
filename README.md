@@ -1,5 +1,4 @@
-
-#UCI Study Party App Repository
+UCI Study Party App Repository
 
 Robert La
 Robert Chen
